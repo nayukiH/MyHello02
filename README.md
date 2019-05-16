@@ -1,5 +1,5 @@
 # MyHello02
-## For what I have done
+## what I have done
 Simply add one line.
 > Console.ResetColor();
 ## complaint
